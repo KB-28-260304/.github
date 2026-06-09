@@ -8,6 +8,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 <hr/>
 
 
@@ -17,6 +18,7 @@
 <h3><a href="https://github.com/KB-28-260304/03_VueJS.git">03_Vue.js</a></h3>
 <h3><a href="https://github.com/KB-28-260304/04_Java.git">04_Java</a></h3>
 <h3><a href="https://github.com/KB-28-260304/05_DB.git">05_DB</a></h3>
+<h3><a href="https://github.com/KB-28-260304/06_Servlet_JSP.git">06_Servlet-JSP</a></h3>
 
 ----
 ### 📌 참고  
